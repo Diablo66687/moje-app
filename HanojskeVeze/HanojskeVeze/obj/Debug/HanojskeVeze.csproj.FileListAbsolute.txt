@@ -1,0 +1,29 @@
+D:\_ITnetwork\Kolekce\2\HanojskeVeze\HanojskeVeze\bin\Debug\HanojskeVeze.exe.config
+D:\_ITnetwork\Kolekce\2\HanojskeVeze\HanojskeVeze\bin\Debug\HanojskeVeze.exe
+D:\_ITnetwork\Kolekce\2\HanojskeVeze\HanojskeVeze\bin\Debug\HanojskeVeze.pdb
+D:\_ITnetwork\Kolekce\2\HanojskeVeze\HanojskeVeze\obj\Debug\HanojskeVeze.csproj.CoreCompileInputs.cache
+D:\_ITnetwork\Kolekce\2\HanojskeVeze\HanojskeVeze\obj\Debug\HanojskeVeze.exe
+D:\_ITnetwork\Kolekce\2\HanojskeVeze\HanojskeVeze\obj\Debug\HanojskeVeze.pdb
+D:\_ITnetwork\Kolekce\2\HanojskeVeze\HanojskeVeze\obj\Debug\HanojskeVeze.csproj.AssemblyReference.cache
+C:\Users\david\Downloads\c_sharp_cviceni\c_sharp_cviceni_5-6\HanojskeVeze\HanojskeVeze\bin\Debug\HanojskeVeze.exe.config
+C:\Users\david\Downloads\c_sharp_cviceni\c_sharp_cviceni_5-6\HanojskeVeze\HanojskeVeze\bin\Debug\HanojskeVeze.exe
+C:\Users\david\Downloads\c_sharp_cviceni\c_sharp_cviceni_5-6\HanojskeVeze\HanojskeVeze\bin\Debug\HanojskeVeze.pdb
+C:\Users\david\Downloads\c_sharp_cviceni\c_sharp_cviceni_5-6\HanojskeVeze\HanojskeVeze\obj\Debug\HanojskeVeze.csprojAssemblyReference.cache
+C:\Users\david\Downloads\c_sharp_cviceni\c_sharp_cviceni_5-6\HanojskeVeze\HanojskeVeze\obj\Debug\HanojskeVeze.csproj.CoreCompileInputs.cache
+C:\Users\david\Downloads\c_sharp_cviceni\c_sharp_cviceni_5-6\HanojskeVeze\HanojskeVeze\obj\Debug\HanojskeVeze.exe
+C:\Users\david\Downloads\c_sharp_cviceni\c_sharp_cviceni_5-6\HanojskeVeze\HanojskeVeze\obj\Debug\HanojskeVeze.pdb
+C:\Users\david\Downloads\c_sharp_cviceni\c_sharp_cviceni_5-6\c_sharp_cviceni_5-6\HanojskeVeze\HanojskeVeze\bin\Debug\HanojskeVeze.exe.config
+C:\Users\david\Downloads\c_sharp_cviceni\c_sharp_cviceni_5-6\c_sharp_cviceni_5-6\HanojskeVeze\HanojskeVeze\bin\Debug\HanojskeVeze.exe
+C:\Users\david\Downloads\c_sharp_cviceni\c_sharp_cviceni_5-6\c_sharp_cviceni_5-6\HanojskeVeze\HanojskeVeze\bin\Debug\HanojskeVeze.pdb
+C:\Users\david\Downloads\c_sharp_cviceni\c_sharp_cviceni_5-6\c_sharp_cviceni_5-6\HanojskeVeze\HanojskeVeze\obj\Debug\HanojskeVeze.csproj.CoreCompileInputs.cache
+C:\Users\david\Downloads\c_sharp_cviceni\c_sharp_cviceni_5-6\c_sharp_cviceni_5-6\HanojskeVeze\HanojskeVeze\obj\Debug\HanojskeVeze.exe
+C:\Users\david\Downloads\c_sharp_cviceni\c_sharp_cviceni_5-6\c_sharp_cviceni_5-6\HanojskeVeze\HanojskeVeze\obj\Debug\HanojskeVeze.pdb
+C:\Users\david\Downloads\c_sharp_cviceni\c_sharp_cviceni_5-6\c_sharp_cviceni_5-6\HanojskeVeze\HanojskeVeze\obj\Debug\HanojskeVeze.csprojAssemblyReference.cache
+C:\Users\skrib\OneDrive\ITnetwork skolení\Projekt C\HanojskeVeze\HanojskeVeze\bin\Debug\HanojskeVeze.exe.config
+C:\Users\skrib\OneDrive\ITnetwork skolení\Projekt C\HanojskeVeze\HanojskeVeze\bin\Debug\HanojskeVeze.exe
+C:\Users\skrib\OneDrive\ITnetwork skolení\Projekt C\HanojskeVeze\HanojskeVeze\bin\Debug\HanojskeVeze.pdb
+C:\Users\skrib\OneDrive\ITnetwork skolení\Projekt C\HanojskeVeze\HanojskeVeze\obj\Debug\HanojskeVeze.csproj.AssemblyReference.cache
+C:\Users\skrib\OneDrive\ITnetwork skolení\Projekt C\HanojskeVeze\HanojskeVeze\obj\Debug\HanojskeVeze.exe.config
+C:\Users\skrib\OneDrive\ITnetwork skolení\Projekt C\HanojskeVeze\HanojskeVeze\obj\Debug\HanojskeVeze.csproj.CoreCompileInputs.cache
+C:\Users\skrib\OneDrive\ITnetwork skolení\Projekt C\HanojskeVeze\HanojskeVeze\obj\Debug\HanojskeVeze.exe
+C:\Users\skrib\OneDrive\ITnetwork skolení\Projekt C\HanojskeVeze\HanojskeVeze\obj\Debug\HanojskeVeze.pdb
